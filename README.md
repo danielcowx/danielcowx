@@ -2,8 +2,11 @@
 
 **AI & Automation Consultant · Vancouver · 20 years in software engineering**
 
+Helping businesses replace manual work with practical AI.
+
 - Website: <https://danielcowx.com>
 - Email: <daniel@danielcowx.com>
+- Book a 30-min call: <https://cal.com/danielcowx/discovery-call>
 
 ---
 
